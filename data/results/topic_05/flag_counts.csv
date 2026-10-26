@@ -1,0 +1,19 @@
+"wave","form","review_flag","item_count"
+"Cycle A","Form 1","High facility",0
+"Cycle B","Form 1","High facility",0
+"Cycle A","Form 2","High facility",0
+"Cycle B","Form 2","High facility",2
+"Cycle A","Form 3","High facility",0
+"Cycle B","Form 3","High facility",0
+"Cycle A","Form 1","Low facility",2
+"Cycle B","Form 1","Low facility",4
+"Cycle A","Form 2","Low facility",1
+"Cycle B","Form 2","Low facility",5
+"Cycle A","Form 3","Low facility",5
+"Cycle B","Form 3","Low facility",2
+"Cycle A","Form 1","Routine",22
+"Cycle B","Form 1","Routine",20
+"Cycle A","Form 2","Routine",23
+"Cycle B","Form 2","Routine",17
+"Cycle A","Form 3","Routine",19
+"Cycle B","Form 3","Routine",22

@@ -1,0 +1,4 @@
+"flag","demo_rule","interpretation"
+"Low facility","Facility below 0.25","Illustrative review prompt, not an operational decision"
+"High facility","Facility above 0.85","Illustrative review prompt, not an operational decision"
+"Low item-rest association","Item-rest association below 0.15","Illustrative review prompt, not an operational decision"

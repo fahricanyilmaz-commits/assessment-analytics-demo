@@ -1,0 +1,13 @@
+"wave","form","domain","flagged_items"
+"Cycle A","Form 1","Domain A",1
+"Cycle B","Form 1","Domain A",2
+"Cycle A","Form 2","Domain A",1
+"Cycle B","Form 2","Domain A",3
+"Cycle A","Form 3","Domain A",3
+"Cycle B","Form 3","Domain A",0
+"Cycle A","Form 1","Domain B",1
+"Cycle B","Form 1","Domain B",2
+"Cycle A","Form 2","Domain B",0
+"Cycle B","Form 2","Domain B",4
+"Cycle A","Form 3","Domain B",2
+"Cycle B","Form 3","Domain B",2
